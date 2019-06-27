@@ -38,6 +38,8 @@ _-Instalar git_
 _-instalar Gitkraken_
 _-instalar git-flow (en caso de no tenerlo)_ 
 
+### Instalacion
+_se necesita tener instalado lo siguiente:_
 _**git:**_
 _Linux: _
 ...
