@@ -51,3 +51,9 @@ brew install git-flow
 
 
 ### prueba 1
+
+Conenctar GitHub con GitKraken: 
+1. Ir a Preferences 
+2. Luego a Autenthication 
+3. Seleccionar GitHub.com 
+4. Dar click en Connect to GitHub
