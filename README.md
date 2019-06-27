@@ -11,6 +11,7 @@ git clone https://github.com/JackAndrewG/Prueba_Flow.git
 -instalar Gitkraken
 -instalar git-flow (en caso de no tenerlo) 
 
+### Instalacion
 **git:**
 Linux: apt-get install git
 Windows: http://msysgit.github.com/
