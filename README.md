@@ -15,8 +15,8 @@ git clone https://github.com/JackAndrewG/Prueba_Flow.git
 
 ### Instalacion
 _se necesita tener instalado lo siguiente:_
-* **git:**
-Linux:
+#### git:
+_Linux:_
 ``` 
 apt-get install git
 ```
