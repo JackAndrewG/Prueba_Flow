@@ -64,6 +64,14 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html/) - Extensiones de git que facilitan la gestión de ramas y flujos de trabajo.
 * [Git](https://git-scm.com/) -  Control de versiones
 
+## Deployment 📦
+
+**-Iniciar git Gitkraken_
+**-Ingresar con las credenciales del repositorio_
+**-En la sección de Repository Managament tomar la opción clone_
+**-Elegir la ruta donde se clonara el proyecto y la url del proyecto_
+**-Abrir el proyecto clonado y hacer cambios_
+
 ## Autores ✒️
 * **Jackson Guzmán** - *Trabajo Inicial* - [JackAndrewG](https://github.com/JackAndrewG)
 * **Jimmy Vicente** - *Implementación* - [JimmyVicente](https://github.com/JimmyVicente)
