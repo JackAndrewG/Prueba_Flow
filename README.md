@@ -56,3 +56,11 @@ Conenctar GitHub con GitKraken:
 2. Luego a Autenthication 
 3. Seleccionar GitHub.com 
 4. Dar click en Connect to GitHub
+
+### Construido con 🛠️
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [GitKraKen](https://www.gitkraken.com/) - Potente y elegante interfaz gráfica multiplataforma para git desarrollada con Electron
+* [GitHub](https://github.com/github) - Plataforma de desarrollo colaborativo
+* [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html/) - Extensiones de git que facilitan la gestión de ramas y flujos de trabajo.
+* [Git](https://git-scm.com/) -  Control de versiones
+
