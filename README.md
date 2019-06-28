@@ -4,9 +4,9 @@ Prueba de integracion Gitkraken con git-flow
 ## Comenzando 🚀
 
 _Clonar el proyecto_
-...
+```
 git clone https://github.com/JackAndrewG/Prueba_Flow.git
-...
+```
 
 ### Pre-requisitos 📋
 * Instalar git
@@ -17,42 +17,43 @@ git clone https://github.com/JackAndrewG/Prueba_Flow.git
 _se necesita tener instalado lo siguiente:_
 **git:**
 _ Linux: _
-... 
+``` 
 apt-get install git
-...
+```
+
 
 _ Windows: _ 
-...
+```
 http://msysgit.github.com/
-...
+```
 
 _ Mac: _
-...
+```
 http://sourceforge.net/projects/git-osx-installer/
-...
+```
 
 **GitKraken:**
 _Linux, Windows, Mac:_ 
-...
+```
 https://www.gitkraken.com/
-...
+```
 
 **git-flow:**
 _Contar con git e integrar_
 _Linux:_ 
-...
+```
 apt-get install git-flow
-...
+```
 
 _Windows:_  
-...
+```
 git flow init
-...
+```
 
 _Mac:_ 
-...
+```
 brew install git-flow
-...
+```
 
 ### integracion GitHub
 
