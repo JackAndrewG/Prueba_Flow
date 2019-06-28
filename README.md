@@ -31,13 +31,13 @@ _Mac:_
 http://sourceforge.net/projects/git-osx-installer/
 ```
 
-* **GitKraken:**
+#### GitKraken:
 _Linux, Windows, Mac:_ 
 ```
 https://www.gitkraken.com/
 ```
 
-* **git-flow:**
+#### git-flow:
 _Contar con git e integrar_
 _Linux:_ 
 ```
