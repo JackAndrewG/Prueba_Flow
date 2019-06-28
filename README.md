@@ -56,3 +56,11 @@ Conenctar GitHub con GitKraken:
 2. Luego a Autenthication 
 3. Seleccionar GitHub.com 
 4. Dar click en Connect to GitHub
+
+
+## Autores ✒️
+* **Jackson Guzmán** - *Trabajo Inicial* - [JackAndrewG](https://github.com/JackAndrewG)
+* **Jimmy Vicente** - *Implementación* - [JimmyVicente](https://github.com/JimmyVicente)
+* **Albert Mora** - *Integración con GitHub y Autores* - [albert1299](https://github.com/albert1299)
+* **Deiby Calva** - *Corrección de errores* - [DeibyCalva](https://github.com/DeibyCalva)
+
