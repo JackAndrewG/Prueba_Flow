@@ -15,30 +15,29 @@ git clone https://github.com/JackAndrewG/Prueba_Flow.git
 
 ### Instalacion
 _se necesita tener instalado lo siguiente:_
-**git:**
-_ Linux: _
+* **git:**
+_Linux:_
 ``` 
 apt-get install git
 ```
 
-
-_ Windows: _ 
+_Windows:_ 
 ```
 http://msysgit.github.com/
 ```
 
-_ Mac: _
+_Mac:_
 ```
 http://sourceforge.net/projects/git-osx-installer/
 ```
 
-**GitKraken:**
+* **GitKraken:**
 _Linux, Windows, Mac:_ 
 ```
 https://www.gitkraken.com/
 ```
 
-**git-flow:**
+* **git-flow:**
 _Contar con git e integrar_
 _Linux:_ 
 ```
