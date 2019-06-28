@@ -15,7 +15,6 @@ _-instalar git-flow (en caso de no tenerlo)_
 
 ### Instalacion
 _se necesita tener instalado lo siguiente:_
-holsajkdfjflsdfjsdlfsdlkf
 _**git:**_
 _Linux: _
 ...
@@ -50,7 +49,7 @@ brew install git-flow
 ...
 
 
-### prueba 1
+### integracion GitHub
 
 Conenctar GitHub con GitKraken: 
 1. Ir a Preferences 
