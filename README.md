@@ -1,6 +1,6 @@
 # Título del Proyecto
-Prueba de integracion Gitkraken con git-flow
-
+Prueba de integracion GitKraken con git-flow
+<img src="https://www.stickpng.com/assets/images/5847f989cef1014c0b5e48bf.png" align="center">
 ## Comenzando 🚀
 
 _Clonar el proyecto_
@@ -38,7 +38,7 @@ https://www.gitkraken.com/
 ```
 
 #### git-flow:
-_Contar con git e integrar_
+Contar con git e integrar
 _Linux:_ 
 ```
 apt-get install git-flow
@@ -63,7 +63,7 @@ Conenctar GitHub con GitKraken:
 4. Dar click en Connect to GitHub
 
 ### Construido con 🛠️
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Mencion a las herramientas que se utilizaron para crear el proyecto_
 * [GitKraKen](https://www.gitkraken.com/) - Potente y elegante interfaz gráfica multiplataforma para git desarrollada con Electron
 * [GitHub](https://github.com/github) - Plataforma de desarrollo colaborativo
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html/) - Extensiones de git que facilitan la gestión de ramas y flujos de trabajo.
@@ -71,11 +71,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Deployment 📦
 
-**-Iniciar git Gitkraken_
-**-Ingresar con las credenciales del repositorio_
-**-En la sección de Repository Managament tomar la opción clone_
-**-Elegir la ruta donde se clonara el proyecto y la url del proyecto_
-**-Abrir el proyecto clonado y hacer cambios_
+* Iniciar git Gitkraken
+* Ingresar con las credenciales del repositorio
+* En la sección de Repository Managament tomar la opción clone
+* Elegir la ruta donde se clonara el proyecto y la url del proyecto
+* Abrir el proyecto clonado y hacer cambios
 
 ## Autores ✒️
 * **Jackson Guzmán** - *Trabajo Inicial* - [JackAndrewG](https://github.com/JackAndrewG)
