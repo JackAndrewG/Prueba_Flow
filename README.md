@@ -1,6 +1,6 @@
 # Título del Proyecto
 Prueba de integracion GitKraken con git-flow
-<img src="https://www.stickpng.com/assets/images/5847f989cef1014c0b5e48bf.png" align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg">
 ## Comenzando 🚀
 
 _Clonar el proyecto_
