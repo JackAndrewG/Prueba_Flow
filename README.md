@@ -64,3 +64,8 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html/) - Extensiones de git que facilitan la gestión de ramas y flujos de trabajo.
 * [Git](https://git-scm.com/) -  Control de versiones
 
+## Autores ✒️
+* **Jackson Guzmán** - *Trabajo Inicial* - [JackAndrewG](https://github.com/JackAndrewG)
+* **Jimmy Vicente** - *Implementación* - [JimmyVicente](https://github.com/JimmyVicente)
+* **Albert Mora** - *Integración con GitHub y Autores* - [albert1299](https://github.com/albert1299)
+* **Deiby Calva** - *Corrección de errores* - [DeibyCalva](https://github.com/DeibyCalva)
