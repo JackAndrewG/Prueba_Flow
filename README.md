@@ -62,6 +62,58 @@ Conenctar GitHub con GitKraken:
 3. Seleccionar GitHub.com 
 4. Dar click en Connect to GitHub
 
+## Ejecutando las pruebas ⚙️
+#### Uso de ramas con GitKraken: 
+_Feature_
+* Nos aseguramos de que estamos sobre la rama develop
+* Abrimos el menu [Git Flow](#gitflow)
+* En la sección start, clic en Feature
+* Se asigna un nombre a la rama
+* Clic en Start Feature
+* Realizamos los cambios sobre esta rama
+* Cuando hayamos acabado todos los cambios previstos para esta rama cerramos esta rama
+
+_Release_
+* Nos aseguramos de que estamos sobre la rama develop
+* Abrimos el menu [Git Flow](#gitflow)
+* En la sección start, clic en Release
+* Se asigna un nombre a la rama indicando su version
+* Clic en Start Release
+* Realizamos los cambios sobre esta rama
+* Cuando hayamos acabado todos los cambios previstos para esta rama cerramos esta rama
+
+_Hotfix_
+* Nos aseguramos de que estamos sobre la rama master
+* Abrimos el menu [Git Flow](#gitflow)
+* En la sección start, clic en Hotfix
+* Se asigna un nombre a la rama
+* Clic en Start Hotfix
+* Realizamos los cambios sobre esta rama
+* Cuando hayamos acabado todos los cambios previstos para esta rama cerramos esta rama
+
+_Finalizar una rama_
+* Nos aseguramos de que estamos sobre la rama que deseamos finalizar
+* Abrimos el menu [Git Flow](#gitflow)
+* En la sección finish, se mostrara como sugerencia finalizar la rama sobre la que estamos trabajando
+* Clic en Finish feature || realease || hotfix
+
+<img  id="gitflow" src="/DeepinScreenshot_select-area_20190628205742.png">
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
 
 ## Deployment 📦
 
