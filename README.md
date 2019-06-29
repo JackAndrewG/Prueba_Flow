@@ -99,21 +99,6 @@ _Finalizar una rama_
 
 <img  id="gitflow" src="/DeepinScreenshot_select-area_20190628205742.png">
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Deployment 📦
 
