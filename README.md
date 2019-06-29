@@ -1,53 +1,58 @@
 # Título del Proyecto
-Prueba de integracion Gitkraken con git-flow
-
+Prueba de integracion GitKraken con git-flow
+<img src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gitkraken-icon.png">
 ## Comenzando 🚀
 
 _Clonar el proyecto_
-...
+```
 git clone https://github.com/JackAndrewG/Prueba_Flow.git
-...
+```
 
 ### Pre-requisitos 📋
-_-Instalar git_
-_-instalar Gitkraken_
-_-instalar git-flow (en caso de no tenerlo)_ 
+* Instalar git
+* instalar Gitkraken
+* instalar git-flow (en caso de no tenerlo) 
 
 ### Instalacion
 _se necesita tener instalado lo siguiente:_
-_**git:**_
-_Linux: _
-...
+#### git:
+_Linux:_
+``` 
 apt-get install git
-...
+```
+
 _Windows:_ 
-...
+```
 http://msysgit.github.com/
-...
+```
+
 _Mac:_
-...
+```
 http://sourceforge.net/projects/git-osx-installer/
-...
-_**GitKraken:**_
+```
+
+#### GitKraken:
 _Linux, Windows, Mac:_ 
-_https://www.gitkraken.com/_
+```
+https://www.gitkraken.com/
+```
 
-_**git-flow:**_
-
-_Contar con git y luego..._
+#### git-flow:
+Contar con git e integrar
 _Linux:_ 
-...
+```
 apt-get install git-flow
-...
-_Windows:_  
-...
-git flow init
-...
-_Mac:_ 
-...
-brew install git-flow
-...
+```
 
+_Windows:_  
+```
+git flow init
+```
+
+_Mac:_ 
+```
+brew install git-flow
+```
 
 ### integracion GitHub
 
@@ -57,20 +62,31 @@ Conenctar GitHub con GitKraken:
 3. Seleccionar GitHub.com 
 4. Dar click en Connect to GitHub
 
+
+## Deployment 📦
+
+* [Iniciar git Gitkraken
+* [Ingresar con las credenciales del repositorio
+* En la sección de Repository Managament tomar la opción clone
+* Elegir la ruta donde se clonara el proyecto y la url del proyecto
+* Abrir el proyecto clonado y hacer cambios
+
 ### Construido con 🛠️
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Mencion a las herramientas que se utilizaron para crear el proyecto_
 * [GitKraKen](https://www.gitkraken.com/) - Potente y elegante interfaz gráfica multiplataforma para git desarrollada con Electron
 * [GitHub](https://github.com/github) - Plataforma de desarrollo colaborativo
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html/) - Extensiones de git que facilitan la gestión de ramas y flujos de trabajo.
 * [Git](https://git-scm.com/) -  Control de versiones
 
-## Deployment 📦
+## Contribuyendo 🖇️
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/JackAndrewG/Prueba_Flow.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-**-Iniciar git Gitkraken_
-**-Ingresar con las credenciales del repositorio_
-**-En la sección de Repository Managament tomar la opción clone_
-**-Elegir la ruta donde se clonara el proyecto y la url del proyecto_
-**-Abrir el proyecto clonado y hacer cambios_
+## Wiki 📖
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/JackAndrewG/Prueba_Flow/wiki)
+
+## Versionado 📌
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/JackAndrewG/Prueba_Flow/tags).
+
 
 ## Autores ✒️
 * **Jackson Guzmán** - *Trabajo Inicial* - [JackAndrewG](https://github.com/JackAndrewG)
